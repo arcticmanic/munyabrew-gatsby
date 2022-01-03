@@ -1,0 +1,10 @@
+﻿[{
+	"id": 1,
+	"type": "Заведение",
+	"mark": "Сaves da cerveja",
+	"view": "Ресторан-пивоварня",
+	"country": "Португалия",
+	"shape": "Круг",
+	"turn": "Да",
+	"backImg": true
+}]
